@@ -1,2 +1,2 @@
 # src
-Hello world! Welcome to my GitHub repo- this is just where I'm going to be throwing random shit :) 
+Hello world! New Git page while I learn C. Not sure how many repositories are actually going to go up, but we'll see what happens. :)
